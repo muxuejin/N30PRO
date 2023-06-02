@@ -41,7 +41,6 @@ GitHub Actions For N30PRO OpenWrt
 
 ![](doc/img/example4.png)
 
-![](doc/img/example5.png)
 
 ## 特别鸣谢 🥰
 
