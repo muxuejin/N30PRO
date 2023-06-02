@@ -122,8 +122,8 @@ jobs:
          rm -rf *kernel.bin
          rm -rf *manifest
          rm -rf *tar.bz2
-         mv *sysupgrade.bin N30PRO-padavanonly-mini-112M-sysupgrade-$(date +%Y.%m.%d).bin
-         mv *factory.bin N30PRO-padavanonly-mini-112M-factory-$(date +%Y.%m.%d).bin
+         mv *sysupgrade.bin N30PRO-padavanonly-mini-sysupgrade-$(date +%Y.%m.%d).bin
+         mv *factory.bin N30PRO-padavanonly-mini-factory-$(date +%Y.%m.%d).bin
          echo "FIRMWARE=$PWD" >> $GITHUB_ENV
          echo "status=success" >> $GITHUB_OUTPUT
         
@@ -136,7 +136,7 @@ jobs:
          body: |
              Gateway：192.168.6.1
              Password：password
-             Application：ramfree,zerotier
+             Application：filetransfer,ttyd,ramfree,zerotier
          files: ${{ env.FIRMWARE }}/*
 
     - name: Delete older releases
