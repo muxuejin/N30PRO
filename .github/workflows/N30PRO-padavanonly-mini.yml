@@ -16,7 +16,8 @@ env:
   REPO_BRANCH: mt7981
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: ./doc/config/N30PRO-padavanonly-mini.config
-  DIY_P1_SH: ./doc/diy/diy-N30PRO-padavanonly-1.sh
+  DIY_P1_SH: ./doc/diy/diy-360T7-hanwckf-1.sh
+  DIY_P2_SH: ./doc/diy/diy-N30PRO-padavanonly-1.sh
   TZ: Asia/Shanghai
   
 jobs:
@@ -74,7 +75,7 @@ jobs:
       run: |
          [ -e files ] && mv files openwrt/files
          [ -e $CONFIG_FILE ] && mv $CONFIG_FILE openwrt/.config
-         chmod +x $DIY_P1_SH
+         chmod +x $DIY_P2_SH
          cd openwrt
          $GITHUB_WORKSPACE/$DIY_P2_SH
         
