@@ -1,4 +1,4 @@
-name: 360T7-padavanonly-mini
+name: N30PRO-padavanonly-mini
 
 on:
   repository_dispatch:
@@ -16,7 +16,7 @@ env:
   REPO_BRANCH: mt7981
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: ./doc/config/N30PRO-padavanonly-mini.config
-  DIY_P1_SH: ./doc/diy/diy-360T7-hanwckf-1.sh
+  DIY_P1_SH: ./doc/diy/diy-N30PRO-hanwckf-1.sh
   DIY_P2_SH: ./doc/diy/diy-N30PRO-padavanonly-1.sh
   TZ: Asia/Shanghai
   
