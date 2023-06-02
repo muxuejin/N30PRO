@@ -17,7 +17,7 @@ env:
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: ./doc/config/N30PRO-padavanonly-mini.config
   DIY_P1_SH: ./doc/diy/diy-N30PRO-hanwckf-1.sh
-  DIY_P2_SH: ./doc/diy/diy-N30PRO-padavanonly-1.sh
+  DIY_P2_SH: ./doc/diy/diy-N30PRO-padavanonly-2.sh
   TZ: Asia/Shanghai
   
 jobs:
