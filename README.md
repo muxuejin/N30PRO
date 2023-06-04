@@ -8,13 +8,13 @@ GitHub Actions For N30PRO OpenWrt
 
 </h1>
 
-[![GitHub Stars](https://img.shields.io/github/stars/hkk666/360T7?style=flat-square)](https://github.com/hkk666/360T7/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/hkk666/360T7?style=flat-square)](https://github.com/hkk666/360T7/network)
-[![GitHub Issues](https://img.shields.io/github/issues/hkk666/360T7?style=flat-square)](https://github.com/hkk666/360T7/issues)
-[![GitHub Contributors](https://img.shields.io/github/contributors/hkk666/360T7?style=flat-square)](https://github.com/hkk666/360T7/graphs/contributors)
-[![GitHub All Releases](https://img.shields.io/github/downloads/hkk666/360T7/total?style=flat-square)](https://github.com/hkk666/360T7/releases)
-[![GitHub License](https://img.shields.io/github/license/hkk666/360T7?style=flat-square)](https://github.com/hkk666/360T7/blob/main/LICENSE)
-![GitHub Release (latest SemVer)](https://img.shields.io/github/v/release/hkk666/360T7?style=flat-square)
+[![GitHub Stars](https://img.shields.io/github/stars/muxuejin/N30PRO?style=flat-square)](https://github.com/muxuejin/N30PRO/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/muxuejin/N30PRO?style=flat-square)](https://github.com/muxuejin/N30PRO/network)
+[![GitHub Issues](https://img.shields.io/github/issues/muxuejin/N30PRO?style=flat-square)](https://github.com/muxuejin/N30PRO/issues)
+[![GitHub Contributors](https://img.shields.io/github/contributors/muxuejin/N30PRO?style=flat-square)](https://github.com/muxuejin/N30PRO/graphs/contributors)
+[![GitHub All Releases](https://img.shields.io/github/downloads/muxuejin/N30PRO/total?style=flat-square)](https://github.com/muxuejin/N30PRO/releases)
+[![GitHub License](https://img.shields.io/github/license/muxuejin/N30PRO?style=flat-square)](https://github.com/muxuejin/N30PRO/blob/main/LICENSE)
+![GitHub Release (latest SemVer)](https://img.shields.io/github/v/release/muxuejin/N30PRO?style=flat-square)
 
 </div>
 
