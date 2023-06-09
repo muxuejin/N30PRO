@@ -136,7 +136,7 @@ jobs:
          body: |
              Gateway：192.168.6.1
              Password：password
-             Application：filetransfer,ttyd,ramfree,zerotier
+             Application：timecontrol,filetransfer,ttyd,ramfree,zerotier
          files: ${{ env.FIRMWARE }}/*
 
     - name: Delete older releases
